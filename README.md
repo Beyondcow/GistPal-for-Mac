@@ -19,3 +19,11 @@ GistPal means to provide a code clips tool with minimal impact on your programmi
 
 # Screenshots
 
+<img src="./images/0x0ss-0.jpg" />
+
+<img src="./images/0x0ss-1.jpg" />
+
+<img src="./images/0x0ss-2.jpg" />
+
+<img src="./images/0x0ss-3.jpg" />
+
