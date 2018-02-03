@@ -16,7 +16,6 @@ FEATURES:
 
 GistPal means to provide a code clips tool with minimal impact on your programming workflow.
 
-
 # Screenshots
 
 <img src="./images/0x0ss-0.jpg" />
@@ -27,3 +26,7 @@ GistPal means to provide a code clips tool with minimal impact on your programmi
 
 <img src="./images/0x0ss-3.jpg" />
 
+
+# Apple App Store Link
+
+https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12
