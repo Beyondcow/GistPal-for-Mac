@@ -1,29 +1,32 @@
 # GistPal for Mac
 
-GistPal is a wonderful code clips tool for GitHub:Gist lovers. It helps you to quickly access to your gist code from macOS menu bar.
+GistPal is a wonderful code clips tool for GitHub Gist lovers. It helps you to quickly access your gist code right from macOS menu bar.
 
-**Update for macOS High Sierra**
+*** Update for macOS Mojave ***
 
 FEATURES: 
 
-* Full-text search
-* Syntax highlight、line number
-* Markdown preview
-* Sorting by your copy frequency
-* Multiple files in one view
-* Instant editing and saving in popup panel
-* Auto and manually sync
+● Full-text search
+● Syntax highlight、line number
+● Markdown preview
+● Sorting by your copy frequency
+● Multiple files in one view
+● Instant editing and saving in the popup panel
+● Auto and manually sync
 
 GistPal means to provide a code clips tool with minimal impact on your programming workflow.
 
+# Updates
 
-# Screenshots
+## Version 2.7 - 7 Nov 2018
 
-<img src="./images/0x0ss-0.jpg" />
+This update brings full support for macOS Mojave and introduces a stunning dark mode for GistPal.
 
-<img src="./images/0x0ss-1.jpg" />
+DARK MODE FOR MOJAVE
+● GistPal will automatically switch between light and dark mode based on the appearance you've chosen in the macOS system Preferences.
 
-<img src="./images/0x0ss-2.jpg" />
-
-<img src="./images/0x0ss-3.jpg" />
+OTHER CHANGES
+● Full support for macOS Mojave.
+● New CSV table preview feature.
+● Bug fixes and stability improvement.
 
