@@ -20,20 +20,8 @@ GistPal means to provide a code clips tool with minimal impact on your programmi
 
 https://itunes.apple.com/ca/app/gistpal/id602550970?mt=12
 
-# Updates
+# Releasenotes
 
-## Version 2.7 - Nov 6, 2018
-
-This update brings full support for macOS Mojave and introduces a stunning dark mode for GistPal.
-
-DARK MODE FOR MOJAVE
-
-* GistPal will automatically switch between light and dark mode based on the appearance you've chosen in the macOS system Preferences.
-
-OTHER CHANGES
-
-* Full support for macOS Mojave.
-* New CSV table preview feature.
-* Bug fixes and stability improvement.
+https://www.beyondcow.com/gistpal/releasenotes/
 
 
